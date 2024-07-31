@@ -1,2 +1,2 @@
 # CODSOFT
-CODSOFT internships tasks
+ this repository contains all my CODSOFT internships tasks.
